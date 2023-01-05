@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "813083108432",
+    "firebase_url": "https://recyclerphotos-default-rtdb.firebaseio.com",
+    "project_id": "recyclerphotos",
+    "storage_bucket": "recyclerphotos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813083108432:android:4e69a3beae58c95061dd55",
+        "android_client_info": {
+          "package_name": "com.example.dbrecyclerphotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813083108432-jdvs2tcum1m9ujj71dclvmibdagb1vbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaoetHNSgfRq4OISbYO2bEhKKgleQCThA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813083108432-jdvs2tcum1m9ujj71dclvmibdagb1vbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
